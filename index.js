@@ -2,6 +2,11 @@ function greet(name) {
   return `Hello, ${name}!`;
 }
 
-console.log(greet("World"));
+function farewell(name) {
+  return `Goodbye, ${name}!`;
+}
 
-module.exports = { greet };
+console.log(greet("World"));
+console.log(farewell("World"));
+
+module.exports = { greet, farewell };
