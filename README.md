@@ -1,6 +1,6 @@
 # dummy-project
 
-A dummy Node.js project.
+A dummy Node.js project for testing purposes.
 
 ## Usage
 
